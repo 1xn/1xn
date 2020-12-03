@@ -2,10 +2,10 @@
 
 Welcome Human!
 
-- 🔭 I’m currently working the web.
+- 🔭 I’m currently working the web as a front-end developer.
 - 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate on interesting projects.
-- 🤔 I’m looking for help with Unity game development.
+- 🤔 I’m getting started with C# and Unity3d.
 - 💬 Ask me about Vintage computers!
 - 📫 How to reach me: dan@1xn.org
 - 😄 Thank you!
