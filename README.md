@@ -2,7 +2,7 @@
 
 It's Daniel! I'm a web developer from Germany and I like to automate content!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=1xn)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1xn&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
