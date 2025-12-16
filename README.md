@@ -18,13 +18,13 @@ I build systems that help teams **author, transform, and publish** content relia
 ## Contact
 If you want to collaborate or talk publishing systems and automation, open an issue or reach out via LinkedIn.
 
-<h2 align="center">Github Stats</h2>
+<h2 align="left">Github Stats</h2>
 <div align="center">
   
 [![trophy](https://github-trophies.vercel.app/?username=1xn)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
-<h2 align="center">Top Languages</h2>
+<h2 align="left">Top Languages</h2>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1xn&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 
 <!--h2 align="center">Weekly Top Languages</h2>
