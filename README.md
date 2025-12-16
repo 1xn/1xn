@@ -1,4 +1,4 @@
-
+[![trophy](https://github-trophies.vercel.app/?username=1xn)](https://github.com/lucthienphong1120/github-trophies)
 <h2 align="center">Top Languages</h2>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1xn&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 
