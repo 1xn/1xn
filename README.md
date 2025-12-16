@@ -1,5 +1,6 @@
+<h2 align="center">Github Stats</h2>
 <div align="center">
-  <h2 align="center">Github Stats</h2>
+  
 [![trophy](https://github-trophies.vercel.app/?username=1xn)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
