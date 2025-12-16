@@ -1,16 +1,3 @@
-<h2 align="center">Github Stats</h2>
-<div align="center">
-  
-[![trophy](https://github-trophies.vercel.app/?username=1xn)](https://github.com/lucthienphong1120/github-trophies)
-
-</div>
-<h2 align="center">Top Languages</h2>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1xn&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
-
-<!--h2 align="center">Weekly Top Languages</h2>
-<p-- align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=1xn&layout=compact&langs_count=20
-&custom_title=Weekly%20Top%20Languages" alt="Weekly Top Languages" /></a></p-->
-
 # Hi!
 
 I’m a full-stack developer and media systems designer working across **editorial platforms**, **automated publishing workflows**, and **bespoke creative-coding tools**.
@@ -31,6 +18,15 @@ I build systems that help teams **author, transform, and publish** content relia
 ## Contact
 If you want to collaborate or talk publishing systems and automation, open an issue or reach out via LinkedIn.
 
-<!--
-**1xn/1xn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h2 align="center">Github Stats</h2>
+<div align="center">
+  
+[![trophy](https://github-trophies.vercel.app/?username=1xn)](https://github.com/lucthienphong1120/github-trophies)
+
+</div>
+<h2 align="center">Top Languages</h2>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1xn&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
+
+<!--h2 align="center">Weekly Top Languages</h2>
+<p-- align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=1xn&layout=compact&langs_count=20
+&custom_title=Weekly%20Top%20Languages" alt="Weekly Top Languages" /></a></p-->
