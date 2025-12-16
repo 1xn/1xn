@@ -25,7 +25,7 @@ If you want to collaborate or talk publishing systems and automation, open an is
 
 </div>
 <h2 align="left">Top Languages</h2>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1xn&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1xn&layout=compact&langs_count=20&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 
 <!--h2 align="center">Weekly Top Languages</h2>
 <p-- align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=1xn&layout=compact&langs_count=20
